@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 
 ## Projects
 
-- [ElaiFashion Tailoring (http://106.51.61.111:8080/emoybooking/#/login)]: A responsive and user-friendly tailoring web app built using **React.js**. Features include **custom components, state management**, and **WhatsApp integration** for customer communication.
+- [ElaiFashion Tailoring (Web)]: A responsive and user-friendly tailoring web app built using **React.js**. Features include **custom components, state management**, and **WhatsApp integration** for customer communication.
 
 - [EMOY-PRO Referral (Mobile)]: A **Flutter** mobile app for managing referrals in the e-MOY product ecosystem. Implements **secure authentication** via **Keycloak (JWT Tokens)** and an intuitive **UI/UX** for better user engagement.
 
